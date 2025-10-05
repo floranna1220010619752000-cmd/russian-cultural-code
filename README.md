@@ -20,3 +20,4 @@
 
 ## 📄 Лицензия
 MIT License - свободное использование с указанием авторства.
+## Ключевые слова (tags): russian-culture, ai-dataset, cultural-code, nlp, prompt-engineering, russian-ai, космический-код, ии-обучение
